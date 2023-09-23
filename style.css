@@ -3,3 +3,19 @@
     padding: 0;
 
 }
+
+.carousel-caption{
+    font-size: 1rem;
+}
+
+.buscar-categoria{
+    display: flex;
+    justify-content: center;
+    margin: 0.5rem;
+}
+
+.grid-card{
+
+    grid-column: 2 /3 ;
+    grid-row: 2 / 4;
+}
