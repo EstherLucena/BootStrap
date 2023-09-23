@@ -1,21 +1,29 @@
-*{
+* {
     margin: 0;
     padding: 0;
 
 }
 
-.carousel-caption{
+.carousel-caption {
     font-size: 1rem;
 }
 
-.buscar-categoria{
+.buscar-categoria {
     display: flex;
     justify-content: center;
     margin: 0.5rem;
 }
 
-.grid-card{
+.card-body {
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+}
 
-    grid-column: 2 /3 ;
-    grid-row: 2 / 4;
+.produto_alta{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
 }
